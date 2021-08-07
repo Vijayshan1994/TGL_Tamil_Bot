@@ -29,20 +29,17 @@ Main source is here [Main Source](https://github.com/TAMILBOTS/TamilUserBot) for
 
 ### குழுக்கள் மற்றும் ஆதரவு:
 
-[![](https://camo.githubusercontent.com/e531cdc1dbdcb78f8ffe767875a6b6d33c43e2e0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d2532304368616e6e656c2d7265642e7376673f6c6f676f3d54656c656772616d)](https://t.me/tamiluserbot)
 
-[![](https://camo.githubusercontent.com/7b0a8bb8af0b2466dd1c38a6c1367ddee45ba266/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6f696e2d54656c656772616d25323047726f75702d626c75652e7376673f6c6f676f3d74656c656772616d)](https://t.me/tamilsupport)
 
 ## நான் அதை எவ்வாறு பயன்படுத்துவது?
 
-தமிழ் பாட்-யை உள்ளமைக்க, எங்கள் [TamilBotSupport](https://t.me/TamilBotSupport) ஐப் பார்க்கலாம்.
+தமிழ் பாட்-யை உள்ளமைக்க, எங்கள் [https://t.me/latestgamezone12) ஐப் பார்க்கலாம்.
 தயவுசெய்து, எங்கள் குழுக்களில் எங்களிடம் கேட்பதற்கு முன்,
 நீங்கள் சேனல் மற்றும் தேவையான அனைத்து படிகளையும் பின்பற்றியுள்ளீர்கள் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.
-[Support group](https://t.me/Tamilsupport)
+[Support group](https://t.me/latestgamezone12)
 
 ## Spacial Thanks To:
-[Sandy](https://github.com/sandy1709)
+[mk]
 
 ## credits
-   - [@midnightmadwalk](https://t.me/midnightmadwalk)
-   - [@DeletedUser420](https://t.me/DeletedUser420)
+   - 
