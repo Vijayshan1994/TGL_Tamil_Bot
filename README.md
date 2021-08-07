@@ -12,7 +12,7 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTamilUserBot%2FTamilBot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/IVETRI/TamilBot)
 
-[![tamilbot logo](https://telegra.ph/file/2790938cacb9aa80d478c.jpg)](https://heroku.com/deploy?template=https://github.com/tamilbots/tamilbot)
+[![tamilbot logo](https://cdn4.vectorstock.com/i/1000x1000/24/68/rock-music-background-with-moon-vector-4522468.jpg)](https://heroku.com/deploy?template=https://github.com/tamilbots/tamilbot)
 
 
 ## This is just heroku support source:
